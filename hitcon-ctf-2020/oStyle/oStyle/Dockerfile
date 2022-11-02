@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:kinetic-20220830
 EXPOSE 80
 ENV DEBIAN_FRONTEND=noninteractive
 
